@@ -3,6 +3,7 @@ package ru.itpark.service;
 import javax.naming.OperationNotSupportedException;
 
 public class CashbackService {
+
     public int calculateCashback(int purchaseAmount) {
         int percent = 5;
 
