@@ -15,6 +15,7 @@ class CashbackServiceTest {
 
         assertEquals(5, result);
     }
+
     @Test
     @DisplayName("Should apply max limit to cashback")
     void calculateCashbackWithMaxLimit() {
