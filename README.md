@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/sebastyanpereira/cashback-service.svg?branch=master)](https://travis-ci.org/sebastyanpereira/cashback-service)
+[![Build Status](https://travis-ci.org/sebastyanpereira/cashback-service.svg?branch=master)](https://travis-ci.org/sebastyanpereira/cashback-service) [![codecov](https://codecov.io/gh/sebastyanpereira/cashback-service/branch/master/graph/badge.svg)](https://codecov.io/gh/sebastyanpereira/cashback-service)
 # Cashback Service
